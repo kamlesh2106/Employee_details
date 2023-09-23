@@ -1,0 +1,19 @@
+2023-09-23T12:37:57+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_mini_cart() in C:\wamp64\www\employees\wp-content\themes\twentytwentyone\functions.php:825
+Stack trace:
+#0 C:\wamp64\www\employees\wp-settings.php(600): include()
+#1 C:\wamp64\www\employees\wp-config.php(100): require_once('C:\\wamp64\\www\\e...')
+#2 C:\wamp64\www\employees\wp-load.php(50): require_once('C:\\wamp64\\www\\e...')
+#3 C:\wamp64\www\employees\wp-blog-header.php(13): require_once('C:\\wamp64\\www\\e...')
+#4 C:\wamp64\www\employees\index.php(17): require('C:\\wamp64\\www\\e...')
+#5 {main}
+  thrown in C:\wamp64\www\employees\wp-content\themes\twentytwentyone\functions.php on line 825
+
+2023-09-23T12:37:58+00:00 CRITICAL Uncaught Error: Call to undefined function woocommerce_mini_cart() in C:\wamp64\www\employees\wp-content\themes\twentytwentyone\functions.php:825
+Stack trace:
+#0 C:\wamp64\www\employees\wp-settings.php(600): include()
+#1 C:\wamp64\www\employees\wp-config.php(100): require_once('C:\\wamp64\\www\\e...')
+#2 C:\wamp64\www\employees\wp-load.php(50): require_once('C:\\wamp64\\www\\e...')
+#3 C:\wamp64\www\employees\wp-admin\admin-ajax.php(22): require_once('C:\\wamp64\\www\\e...')
+#4 {main}
+  thrown in C:\wamp64\www\employees\wp-content\themes\twentytwentyone\functions.php on line 825
+
